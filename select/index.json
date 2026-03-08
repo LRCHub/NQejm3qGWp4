@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Hakushi",
+  "base_artist": "ヤギ・ハイレグ",
+  "createdAt": "2026-03-08T09:14:05.953361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hakushi No Haru",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Hakushi_No_Haru_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hakushi no haru",
+      "artist": "Eve, Sou",
+      "has_synced": true,
+      "path": "select/02_Hakushi_no_haru_Eve,_Sou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "304 Goushitsu Hakushi No Sakura",
+      "artist": "Dir En Grey",
+      "has_synced": true,
+      "path": "select/03_304_Goushitsu_Hakushi_No_Sakura_Dir_En_Grey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hakushi no haru",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/04_Hakushi_no_haru_Sou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hakushi No Haru",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/05_Hakushi_No_Haru_Sou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hikari (feat. Hakushi Hasegawa)",
+      "artist": "Pasocom Music Club",
+      "has_synced": false,
+      "path": "select/06_Hikari_(feat._Hakushi_Hasegawa)_Pasocom_Music_Club.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "304goushitsu, Hakushi no Sakura",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/07_304goushitsu,_Hakushi_no_Sakura_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hakushi No Haru",
+      "artist": "Eve×Sou",
+      "has_synced": true,
+      "path": "select/08_Hakushi_No_Haru_Eve×Sou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "youth (feat. Hakushi Hasegawa)",
+      "artist": "KID FRESINO",
+      "has_synced": true,
+      "path": "select/09_youth_(feat._Hakushi_Hasegawa)_KID_FRESINO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hakushi No Haru",
+      "artist": "Eve × Sou",
+      "has_synced": true,
+      "path": "select/10_Hakushi_No_Haru_Eve_×_Sou.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "304 goushitsu, hakushi no sakura",
+      "artist": "Dir en grey",
+      "has_synced": true,
+      "path": "select/11_304_goushitsu,_hakushi_no_sakura_Dir_en_grey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hakushi Hasegawa: ‘Mouth Flash' (Kuchinohanabi)",
+      "artist": "KCRW",
+      "has_synced": true,
+      "path": "select/12_Hakushi_Hasegawa__‘Mouth_Flash'_(Kuchinohanabi)_KCRW.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hakushi",
+      "artist": "ヤギ・ハイレグ",
+      "has_synced": false,
+      "path": "select/pl_01_Hakushi_ヤギ・ハイレグ.txt"
+    }
+  ]
+}
